@@ -4,4 +4,17 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <IsPackable>true</IsPackable>
+    <PackageId>TNVS.SimpleInjector.Modularization.Abstractions</PackageId>
+    <PackageVersion>0.5.0</PackageVersion>
+    <Title>TNVS.SimpleInjector.Modularization.Abstractions</Title>
+    <Description>Abstractions for the simple Modularization Framework for SimpleInjector. Use this package in Module-implementing projects. Use TNVS.SimpleInjector.Modularization for the host project.</Description>
+    <Authors>TNVS,Tim Vinkemeier</Authors>
+    <Copyright>Tim Vinkemeier</Copyright>
+    <PackageProjectUrl>https://github.com/TNVS/TNVS.SimpleInjector.Modularization</PackageProjectUrl>
+    <PackageTags>simpleinjector,module</PackageTags>
+    <RepositoryUrl>https://github.com/TNVS/TNVS.SimpleInjector.Modularization</RepositoryUrl>
+  </PropertyGroup>
+
 </Project>
