@@ -1,5 +1,7 @@
 # TNVS.SimpleInjector.Modularization
 
+<img src="https://raw.githubusercontent.com/TNVS/TNVS.SimpleInjector.Modularization/master/logo.png" width="60" height="60"/>
+
 [![NuGet](https://img.shields.io/nuget/v/TNVS.SimpleInjector.Modularization.svg?label=TNVS.SimpleInjector.Modularization)](https://www.nuget.org/packages/TNVS.SimpleInjector.Modularization/)
 
 [![NuGet](https://img.shields.io/nuget/v/TNVS.SimpleInjector.Modularization.Abstractions.svg?label=TNVS.SimpleInjector.Modularization.Abstractions)](https://www.nuget.org/packages/TNVS.SimpleInjector.Modularization.Abstractions/)
