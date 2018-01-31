@@ -7,7 +7,8 @@
   <PropertyGroup>
     <IsPackable>true</IsPackable>
     <PackageId>TNVS.SimpleInjector.Modularization</PackageId>
-    <PackageVersion>0.5.0</PackageVersion>
+    <PackageVersion>0.5.1</PackageVersion>
+    <PackageIconUrl>https://raw.githubusercontent.com/TNVS/TNVS.SimpleInjector.Modularization/master/logo.png</PackageIconUrl>
     <Title>TNVS.SimpleInjector.Modularization</Title>
     <Description>Modularization Framework for SimpleInjector. Simply implement the IModule interface and use the extension method on Container to load all modules in all loaded assemblies. Use this package in the Module-hosting project. Use TNVS.SimpleInjector.Modularization.Abstractions for the module projects.</Description>
     <Authors>TNVS,Tim Vinkemeier</Authors>

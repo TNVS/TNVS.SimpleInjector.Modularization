@@ -7,7 +7,8 @@
   <PropertyGroup>
     <IsPackable>true</IsPackable>
     <PackageId>TNVS.SimpleInjector.Modularization.Abstractions</PackageId>
-    <PackageVersion>0.5.0</PackageVersion>
+    <PackageVersion>0.5.1</PackageVersion>
+    <PackageIconUrl>https://raw.githubusercontent.com/TNVS/TNVS.SimpleInjector.Modularization/master/logo.png</PackageIconUrl>
     <Title>TNVS.SimpleInjector.Modularization.Abstractions</Title>
     <Description>Abstractions for the simple Modularization Framework for SimpleInjector. Use this package in Module-implementing projects. Use TNVS.SimpleInjector.Modularization for the host project.</Description>
     <Authors>TNVS,Tim Vinkemeier</Authors>
