@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNVS.SimpleInjector.Modularization", "TNVS.SimpleInjector.Modularization\TNVS.SimpleInjector.Modularization.csproj", "{D3CB4D05-21E3-4883-A0FF-9749A64EFAD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CB4D05-21E3-4883-A0FF-9749A64EFAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CB4D05-21E3-4883-A0FF-9749A64EFAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CB4D05-21E3-4883-A0FF-9749A64EFAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CB4D05-21E3-4883-A0FF-9749A64EFAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF8F570-238E-42E1-BB53-CB44ABD32DE9}
+	EndGlobalSection
+EndGlobal
